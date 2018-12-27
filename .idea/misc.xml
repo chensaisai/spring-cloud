@@ -9,13 +9,19 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/serviceOrder-config-app-client-8001/pom.xml" />
         <option value="$PROJECT_DIR$/serviceOrder-config-app-client/pom.xml" />
         <option value="$PROJECT_DIR$/serviceOrder-provider-dept-8002/pom.xml" />
         <option value="$PROJECT_DIR$/serviceOrder-provider-dept-8003/pom.xml" />
         <option value="$PROJECT_DIR$/serviceOrderConfig-3344/pom.xml" />
         <option value="$PROJECT_DIR$/serviceorder-api/pom.xml" />
         <option value="$PROJECT_DIR$/serviceorder-config-3344/pom.xml" />
-        <option value="$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-app-client-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-3344/pom.xml" />
+        <option value="$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-client-3355/pom.xml" />
+        <option value="$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-eureka-client-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/../ServiceOrder/serviceOrder-consumer-dept-80/pom.xml" />
+        <option value="$PROJECT_DIR$/../ServiceOrder/serviceOrder-consumer-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-hystrix-8001/pom.xml" />
       </set>
     </option>
   </component>

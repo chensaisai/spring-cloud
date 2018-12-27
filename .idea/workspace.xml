@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="732842b8-a493-48b0-b708-f205ff6b5a9e" name="Default" comment="" />
+    <list default="true" id="732842b8-a493-48b0-b708-f205ff6b5a9e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../ServiceOrder/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-api/target/serviceorder-root.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-api/target/serviceorder-root.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7001/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7001/target/serviceorder-root.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7001/target/serviceorder-root.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7002/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7002/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7002/target/serviceorder-root.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7002/target/serviceorder-root.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7003/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7003/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7003/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7003/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7003/target/serviceorder-root.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7003/target/serviceorder-root.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-zuul-gateway-9527/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-zuul-gateway-9527/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-zuul-gateway-9527/target/serviceorder-root.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceOrder/serviceOrder-zuul-gateway-9527/target/serviceorder-root.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/serviceorder-api/target/" />
@@ -35,53 +55,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChargeRuleControllerConsumer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-consumer-dept-feign/src/main/java/com/ys/springcloud/controller/ChargeRuleControllerConsumer.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ServiceOrder/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-8001/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BmsConsumer80_Feign_App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-consumer-dept-feign/src/main/java/com/ys/springcloud/BmsConsumer80_Feign_App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeptProvider8001_App.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-8001/src/main/java/com/ys/DeptProvider8001_App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChargeRuleController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-8001/src/main/java/com/ys/controller/ChargeRuleController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="265">
+              <caret line="89" column="32" lean-forward="true" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -105,10 +83,13 @@
       <find>project.artifactId</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ServiceOrder" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/serviceOrder-api/src/main/java/com/ys/service/ClientService.java" />
         <option value="$PROJECT_DIR$/serviceOrder-consumer-dept-feign/pom.xml" />
         <option value="$PROJECT_DIR$/serviceOrder-consumer-dept-feign/src/main/java/com/ys/springcloud/controller/ChargeRuleControllerConsumer.java" />
         <option value="$PROJECT_DIR$/serviceOrder-consumer-dept-feign/src/main/java/com/ys/springcloud/BmsConsumer80_Feign_App.java" />
@@ -159,6 +140,7 @@
         <option value="$PROJECT_DIR$/serviceOrder-eureka-7001/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/serviceOrder-provider-dept-8001/src/main/java/com/ys/controller/ChargeRuleController.java" />
         <option value="$PROJECT_DIR$/serviceOrder-provider-dept-8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../ServiceOrder/pom.xml" />
       </list>
     </option>
   </component>
@@ -194,6 +176,15 @@
           <item name="serviceOrder-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="serviceorder-root" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="serviceorder-root" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -201,12 +192,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="20" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -220,166 +212,6 @@
             <path>
               <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
               <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-eureka-7001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-eureka-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-eureka-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-eureka-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-eureka-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-eureka-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ys" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ys" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ys" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ServiceOrder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ServiceOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceOrder-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -397,13 +229,13 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/serviceOrder-eureka-7002" />
+    <property name="last_opened_file_path" value="D:/tools/git/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -602,15 +434,23 @@
       <workItem from="1545793297990" duration="5990000" />
       <workItem from="1545810237969" duration="1525000" />
       <workItem from="1545816397959" duration="2691000" />
-      <workItem from="1545894947072" duration="1953000" />
+      <workItem from="1545894947072" duration="4082000" />
     </task>
+    <task id="LOCAL-00001" summary="移除未使用的module">
+      <created>1545902548954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545902548954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135726000" />
+    <option name="totallyTimeSpent" value="137855000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
@@ -624,18 +464,18 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info active="true" anchor="bottom" id="Debug" order="15" visible="true" weight="0.5958042" />
+      <window_info anchor="bottom" id="Debug" order="15" weight="0.37254903" />
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Messages" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="13" weight="0.42517483" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" order="13" visible="true" weight="0.34733894" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.32867134" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27363896" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27363896" />
       <window_info anchor="bottom" id="Problems" order="14" weight="0.32867134" />
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info id="Web" order="6" side_tool="true" />
@@ -688,8 +528,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="移除未使用的module" />
+    <option name="LAST_COMMIT_MESSAGE" value="移除未使用的module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -714,13 +568,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/mysoft/repository/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/annotations/Mapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-app-client-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" />
     <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-app-client-8001/src/main/resources/mybatis/mybatis.cfg.xml" />
     <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-app-client-8001/src/main/resources/application.yml" />
@@ -844,13 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-consumer-dept-80/src/main/java/com/ys/springcloud/controller/ChargeRuleControllerConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-app-client-8001/src/main/java/com/ys/service/impl/ChargeRuleServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-app-client-8001/src/main/java/com/ys/service/ChargeRuleService.java" />
     <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-8001/src/main/java/com/ys/service/impl/ChargeRuleServiceImpl.java">
@@ -877,13 +717,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-app-client-8001/src/main/java/com/ys/controller/ChargeRuleController.java" />
-    <entry file="file://$PROJECT_DIR$/../ServiceOrder/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="104" column="56" lean-forward="true" selection-start-line="104" selection-start-column="56" selection-end-line="104" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/mysoft/repository/com/netflix/hystrix/hystrix-core/1.5.12/hystrix-core-1.5.12.jar!/com/netflix/hystrix/HystrixCommand.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -976,8 +809,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-8001/src/main/java/com/ys/DeptProvider8001_App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="418">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-consumer-dept-80/src/main/java/com/ys/springcloud/controller/ChargeRuleControllerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ServiceOrder/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ServiceOrder/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="89" column="32" lean-forward="true" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -1033,7 +886,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>serviceOrder-api</last-edited>
+          <last-edited>serviceOrder-consumer-hystrix-dashboard</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
