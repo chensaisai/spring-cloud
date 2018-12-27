@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="serviceOrder-api" />
+        <module name="serviceOrder-config-3344" />
+        <module name="serviceOrder-config-client-3355" />
+        <module name="serviceOrder-config-eureka-client-7001" />
+        <module name="serviceOrder-consumer-dept-80" />
+        <module name="serviceOrder-consumer-dept-feign" />
+        <module name="serviceOrder-consumer-hystrix-dashboard" />
+        <module name="serviceOrder-eureka-7001" />
+        <module name="serviceOrder-eureka-7002" />
+        <module name="serviceOrder-eureka-7003" />
+        <module name="serviceOrder-provider-dept-8001" />
+        <module name="serviceOrder-provider-dept-hystrix-8001" />
+        <module name="serviceOrder-zuul-gateway-9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service-order-api" target="1.5" />
+      <module name="serviceorder-config-3344" target="1.5" />
+      <module name="serviceOrder-config-app-client" target="1.5" />
+      <module name="serviceOrder-config-app-client-8001" target="1.8" />
+      <module name="serviceOrder-provider-dept-8002" target="1.8" />
+      <module name="serviceOrder-provider-dept-8003" target="1.8" />
+      <module name="serviceorderapi" target="1.5" />
+      <module name="serviceOrderConfig3344" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

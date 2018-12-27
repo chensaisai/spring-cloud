@@ -1,0 +1,6 @@
+com\ys\api\service\ChargeRuleServiceFallbackFactory.class
+com\ys\api\utils\BaseResponse.class
+com\ys\api\service\ChargeRuleClientService.class
+com\ys\api\utils\BaseRequest.class
+com\ys\api\entities\ChargeRule.class
+com\ys\api\service\ChargeRuleServiceFallbackFactory$1.class
