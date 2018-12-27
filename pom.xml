@@ -93,17 +93,11 @@
     </build>
     <modules>
         <module>serviceOrder-api</module>
-        <module>serviceOrder-config-3344</module>
-        <module>serviceOrder-config-client-3355</module>
-        <module>serviceOrder-config-eureka-client-7001</module>
-        <module>serviceOrder-consumer-dept-80</module>
         <module>serviceOrder-consumer-dept-feign</module>
-        <module>serviceOrder-consumer-hystrix-dashboard</module>
         <module>serviceOrder-eureka-7001</module>
         <module>serviceOrder-eureka-7002</module>
         <module>serviceOrder-eureka-7003</module>
         <module>serviceOrder-provider-dept-8001</module>
-        <module>serviceOrder-provider-dept-hystrix-8001</module>
         <module>serviceOrder-zuul-gateway-9527</module>
     </modules>
 
