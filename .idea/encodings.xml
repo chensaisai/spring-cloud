@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/../ServiceOrder" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-3344" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-app-client-8001" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-client-3355" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-config-eureka-client-7001" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-consumer-dept-80" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-consumer-dept-feign" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-consumer-hystrix-dashboard" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7001" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7002" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-eureka-7003" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-8001" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-8002" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-8003" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-provider-dept-hystrix-8001" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../ServiceOrder/serviceOrder-zuul-gateway-9527" charset="UTF-8" />
+    <file url="file://E:/ServiceOrder" charset="UTF-8" />
+    <file url="file://E:/ServiceOrder/serviceOrder-api" charset="UTF-8" />
+    <file url="file://E:/ServiceOrder/serviceOrder-consumer-dept-feign" charset="UTF-8" />
+    <file url="file://E:/ServiceOrder/serviceOrder-eureka-7001" charset="UTF-8" />
+    <file url="file://E:/ServiceOrder/serviceOrder-eureka-7002" charset="UTF-8" />
+    <file url="file://E:/ServiceOrder/serviceOrder-eureka-7003" charset="UTF-8" />
+    <file url="file://E:/ServiceOrder/serviceOrder-provider-dept-8001" charset="UTF-8" />
+    <file url="file://E:/ServiceOrder/serviceOrder-zuul-gateway-9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceOrder-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceOrder-consumer-dept-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceOrder-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceOrder-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceOrder-eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceOrder-provider-dept-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceOrder-zuul-gateway-9527" charset="UTF-8" />
   </component>
 </project>

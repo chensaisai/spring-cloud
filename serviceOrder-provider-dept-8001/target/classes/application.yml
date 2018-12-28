@@ -32,8 +32,8 @@ eureka:
 info:
   app.name: ys-microservicecloud
   company.name: www.ys.com
-  build.artifactId: serviceOrder-provider-dept-8001
-  build.version: 1.0-SNAPSHOT
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
 logging:
   level:
     com.ys.dao: debug
