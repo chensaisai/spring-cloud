@@ -565,7 +565,7 @@
       <workItem from="1545911316270" duration="879000" />
       <workItem from="1545980430373" duration="3371000" />
       <workItem from="1545986970692" duration="5171000" />
-      <workItem from="1546047185199" duration="679000" />
+      <workItem from="1546047185199" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="移除未使用的module">
       <created>1545902548954</created>
@@ -578,7 +578,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147955000" />
+    <option name="totallyTimeSpent" value="148553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
