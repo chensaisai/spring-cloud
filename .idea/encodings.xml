@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://E:/ServiceOrder" charset="UTF-8" />
-    <file url="file://E:/ServiceOrder/serviceOrder-api" charset="UTF-8" />
-    <file url="file://E:/ServiceOrder/serviceOrder-consumer-dept-feign" charset="UTF-8" />
-    <file url="file://E:/ServiceOrder/serviceOrder-eureka-7001" charset="UTF-8" />
-    <file url="file://E:/ServiceOrder/serviceOrder-eureka-7002" charset="UTF-8" />
-    <file url="file://E:/ServiceOrder/serviceOrder-eureka-7003" charset="UTF-8" />
-    <file url="file://E:/ServiceOrder/serviceOrder-provider-dept-8001" charset="UTF-8" />
-    <file url="file://E:/ServiceOrder/serviceOrder-zuul-gateway-9527" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serviceOrder-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serviceOrder-consumer-dept-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serviceOrder-eureka-7001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serviceOrder-eureka-7002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serviceOrder-eureka-7003" charset="UTF-8" />

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="serviceOrder-api" />
         <module name="serviceOrder-consumer-dept-feign" />
+        <module name="serviceOrder-consumer-hystrix-9001" />
         <module name="serviceOrder-eureka-7001" />
         <module name="serviceOrder-eureka-7002" />
         <module name="serviceOrder-eureka-7003" />
@@ -25,6 +26,7 @@
       <module name="serviceOrder-config-eureka-client-7001" target="1.8" />
       <module name="serviceOrder-consumer-dept-80" target="1.8" />
       <module name="serviceOrder-consumer-hystrix-dashboard" target="1.8" />
+      <module name="serviceOrder-consumer-hystrixDashboard-9001" target="1.7" />
       <module name="serviceOrder-provider-dept-8002" target="1.8" />
       <module name="serviceOrder-provider-dept-8003" target="1.8" />
       <module name="serviceOrder-provider-dept-hystrix-8001" target="1.8" />

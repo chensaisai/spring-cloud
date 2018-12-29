@@ -27,7 +27,6 @@ public class ChargeRuleServiceFallbackFactory implements FallbackFactory<ChargeR
                 chargeRule.setStatus("查询失败，未查询到此列表信息，服务暂时不可用，请稍后再做访问");
                 chargeRuleList.add(chargeRule);
                 resultMap.put("Message",chargeRuleList);
-                System.out.println(throwable.getMessage());
                 return resultMap;
             }
 

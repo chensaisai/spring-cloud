@@ -99,6 +99,7 @@
         <module>serviceOrder-eureka-7003</module>
         <module>serviceOrder-provider-dept-8001</module>
         <module>serviceOrder-zuul-gateway-9527</module>
+        <module>serviceOrder-consumer-hystrix-9001</module>
     </modules>
 
 
