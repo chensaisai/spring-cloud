@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="732842b8-a493-48b0-b708-f205ff6b5a9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/src/main/java/com/ys/BmsConsumerHystrixDashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceOrder-api/src/main/java/com/ys/api/service/ChargeRuleServiceFallbackFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/serviceOrder-api/src/main/java/com/ys/api/service/ChargeRuleServiceFallbackFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceOrder-api/target/classes/com/ys/api/service/ChargeRuleServiceFallbackFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/serviceOrder-api/target/classes/com/ys/api/service/ChargeRuleServiceFallbackFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceOrder-api/target/classes/com/ys/api/service/ChargeRuleServiceFallbackFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/serviceOrder-api/target/classes/com/ys/api/service/ChargeRuleServiceFallbackFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceOrder-consumer-dept-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/serviceOrder-consumer-dept-feign/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceOrder-consumer-dept-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/serviceOrder-consumer-dept-feign/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceOrder-consumer-dept-feign/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/serviceOrder-consumer-dept-feign/target/classes/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="732842b8-a493-48b0-b708-f205ff6b5a9e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/serviceorder-api/target/" />
@@ -56,12 +41,12 @@
       <file leaf-file-name="BmsConsumerHystrixDashboard.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/src/main/java/com/ys/BmsConsumerHystrixDashboard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,7 +55,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="646">
               <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
             </state>
           </provider>
@@ -88,7 +73,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serviceOrder-provider-dept-8001/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
+            <state relative-caret-position="988">
               <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
             </state>
           </provider>
@@ -98,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/serviceOrder-consumer-dept-feign/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -244,9 +229,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -353,6 +336,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -580,6 +565,7 @@
       <workItem from="1545911316270" duration="879000" />
       <workItem from="1545980430373" duration="3371000" />
       <workItem from="1545986970692" duration="5171000" />
+      <workItem from="1546047185199" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="移除未使用的module">
       <created>1545902548954</created>
@@ -592,10 +578,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147276000" />
+    <option name="totallyTimeSpent" value="147955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="5" />
@@ -610,7 +597,6 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="16" weight="0.42717087" />
       <window_info anchor="bottom" id="TODO" order="4" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49928367" weight="0.32913166" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
@@ -620,7 +606,7 @@
       <window_info anchor="bottom" id="Run" order="13" weight="0.34453782" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.32867134" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28653294" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29083094" />
       <window_info anchor="bottom" id="Problems" order="14" weight="0.32867134" />
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info id="Web" order="6" side_tool="true" />
@@ -629,6 +615,7 @@
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49928367" weight="0.32913166" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -785,9 +772,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/src/main/java/com/ys/dao/ChargeRuleDao.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/src/main/java/com/ys/dao/ChargeRuleDao.java" />
     <entry file="jar://D:/mysoft/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
@@ -839,14 +824,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/serviceOrder-provider-dept-8001/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
+        <state relative-caret-position="988">
           <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="646">
           <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
         </state>
       </provider>
@@ -861,18 +846,18 @@
     <entry file="file://$PROJECT_DIR$/serviceOrder-consumer-dept-feign/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/src/main/java/com/ys/BmsConsumerHystrixDashboard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
           </folding>
         </state>
       </provider>
