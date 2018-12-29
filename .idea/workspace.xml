@@ -41,8 +41,8 @@
       <file leaf-file-name="BmsConsumerHystrixDashboard.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/src/main/java/com/ys/BmsConsumerHystrixDashboard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="304">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#409#410#0" expanded="true" />
@@ -570,7 +570,7 @@
       <workItem from="1545911316270" duration="879000" />
       <workItem from="1545980430373" duration="3371000" />
       <workItem from="1545986970692" duration="5171000" />
-      <workItem from="1546047185199" duration="679000" />
+      <workItem from="1546047185199" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="移除未使用的module">
       <created>1545902548954</created>
@@ -583,11 +583,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147955000" />
+    <option name="totallyTimeSpent" value="149241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="5" />
@@ -607,7 +606,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.46638656" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32913166" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.5686275" />
       <window_info anchor="bottom" id="Run" order="13" weight="0.34453782" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.32867134" />
       <window_info anchor="bottom" id="Terminal" order="12" />
@@ -637,6 +636,32 @@
         <option value="3" />
         <option value="1" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -746,9 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -855,10 +877,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/serviceOrder-consumer-hystrix-9001/src/main/java/com/ys/BmsConsumerHystrixDashboard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#409#410#0" expanded="true" />
