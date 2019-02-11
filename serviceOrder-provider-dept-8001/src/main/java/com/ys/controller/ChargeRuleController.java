@@ -2,6 +2,7 @@ package com.ys.controller;
 
 import com.google.common.collect.Maps;
 import com.ys.api.entities.ChargeRule;
+import com.ys.rabbitmq.Sender;
 import com.ys.service.ChargeRuleService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
@@ -32,6 +33,9 @@ public class ChargeRuleController extends BaseController {
     @Resource
     private DiscoveryClient client;
 
+    @Resource
+    private Sender sender;
+
     /**
      * 充值规则列表
      *
@@ -47,6 +51,7 @@ public class ChargeRuleController extends BaseController {
             //查询充值规则列表
             chargeRuleList = service.list();
             resultMap.put("chargeRuleList", chargeRuleList);
+            //sender.send();
         } catch (Exception e) {
             e.printStackTrace();
         }
